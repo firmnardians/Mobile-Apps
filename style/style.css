@@ -1,0 +1,96 @@
+body{
+    background: #fff;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+@media screen and (min-width: 895px) {
+    body {
+        margin: 0 32%;
+    }
+  }
+.myhead{
+    padding: 30px;
+    background: #028361;
+    padding-bottom: 10px;
+}
+.mypic{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 120px;
+    right: 20px;
+    border: 4px solid #fff;
+    border-radius: 8px;
+}
+.mytitle{
+    position: relative;
+    right: -100px;
+    display: table;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-size: 20px;
+}
+.location{
+    position: relative;
+    right: -100px;
+    display: table;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-size: 13px;
+}
+.mycount{
+    padding: 15px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #d2d2d2;
+    display: flex;
+}
+.count1{
+    position: relative;
+    right: -120px;
+}
+.count2{
+    position: relative;
+    right: -170px;
+}
+.mypicnum{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.mypicx{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: grey; 
+    font-size: 15px;
+}
+.bakwan{
+    font-weight: bold;
+    font-size: 19px;
+    padding: 20px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    padding-top: 40px;
+}
+.changepic{
+    padding: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background: #daeee9;
+    position: relative;
+    font-weight: bold;
+    color: #028361;
+    border-radius: 0px 0px 5px 5px;
+    top: 120px;
+    display: table;
+    right: 17px;
+}
+.menu{
+    padding: 20px;
+    background: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+}

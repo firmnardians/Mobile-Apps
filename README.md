@@ -1,2 +1,5 @@
 # fir-apps
-Simple Mobile App 
+Simple making Mobile App - Front End Developer
+
+Design by Dribbble.
+Coding by @firmnardians
